@@ -1,4 +1,6 @@
 Cooksbooks_test
 ===============
 
-Testing Account for Chef
+Testing Account for Chef.
+
+Sample recipes used in testing. 
